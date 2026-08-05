@@ -1,0 +1,1059 @@
+[
+  {
+    "reference": "ZU4",
+    "library": "SmartPrj",
+    "deviceset": "ATMEGA328P-",
+    "device": "PU",
+    "value": ""
+  },
+  {
+    "reference": "ICSP",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-2X3",
+    "device": "",
+    "value": "3x2 M"
+  },
+  {
+    "reference": "P+1",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND1",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+2",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+3",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND2",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND3",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "IOL",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-1X8",
+    "device": "",
+    "value": "8x1F-H8.5"
+  },
+  {
+    "reference": "IOH",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-1X10_ARD",
+    "device": "",
+    "value": "10x1F-H8.5"
+  },
+  {
+    "reference": "AD",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-1X6",
+    "device": "",
+    "value": "6x1F-H8.5"
+  },
+  {
+    "reference": "GND5",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+4",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "C2",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "GND7",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "PC1",
+    "library": "rcl",
+    "deviceset": "CPOL-EU",
+    "device": "D",
+    "value": "47u"
+  },
+  {
+    "reference": "PC2",
+    "library": "rcl",
+    "deviceset": "CPOL-EU",
+    "device": "D",
+    "value": "47u"
+  },
+  {
+    "reference": "GND9",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND10",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND12",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND19",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "ON",
+    "library": "led",
+    "deviceset": "LED",
+    "device": "CHIP-LED0805",
+    "value": "GREEN"
+  },
+  {
+    "reference": "GND14",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+5",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "RX",
+    "library": "led",
+    "deviceset": "LED",
+    "device": "CHIP-LED0805",
+    "value": "YELLOW"
+  },
+  {
+    "reference": "TX",
+    "library": "led",
+    "deviceset": "LED",
+    "device": "CHIP-LED0805",
+    "value": "YELLOW"
+  },
+  {
+    "reference": "D1",
+    "library": "diode",
+    "deviceset": "DIODE-",
+    "device": "SMB",
+    "value": "M7"
+  },
+  {
+    "reference": "X1",
+    "library": "SmartPrj",
+    "deviceset": "POWERSUPPLY_DC21MM",
+    "device": "X",
+    "value": ""
+  },
+  {
+    "reference": "FD1",
+    "library": "SmartPrj",
+    "deviceset": "FIDUCIALMOUNT",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "FD2",
+    "library": "SmartPrj",
+    "deviceset": "FIDUCIALMOUNT",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "FD3",
+    "library": "SmartPrj",
+    "deviceset": "FIDUCIALMOUNT",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "X2",
+    "library": "SmartPrj",
+    "deviceset": "PN61729",
+    "device": "",
+    "value": "USB-B_TH"
+  },
+  {
+    "reference": "GND11",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "U1",
+    "library": "linear",
+    "deviceset": "MC33269ST*",
+    "device": "",
+    "value": "NCP1117ST50T3G"
+  },
+  {
+    "reference": "C4",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "GND13",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "F1",
+    "library": "rcl",
+    "deviceset": "L-EU",
+    "device": "L1812",
+    "value": "MF-MSMF050-2 500mA"
+  },
+  {
+    "reference": "P+6",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+7",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "C7",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "GND16",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "L",
+    "library": "led",
+    "deviceset": "LED",
+    "device": "CHIP-LED0805",
+    "value": "YELLOW"
+  },
+  {
+    "reference": "GND17",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "T1",
+    "library": "zetex",
+    "deviceset": "PMOSSOT23",
+    "device": "",
+    "value": "FDN340P"
+  },
+  {
+    "reference": "P+8",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND20",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND18",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "P+9",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "C1",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "P+10",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "U3",
+    "library": "SmartPrj",
+    "deviceset": "ATMEGA16U2-",
+    "device": "MU",
+    "value": "ATMEGA16U2-MU(R)"
+  },
+  {
+    "reference": "GND21",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "C5",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "ICSP1",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-2X3",
+    "device": "",
+    "value": "3x2 M"
+  },
+  {
+    "reference": "P+11",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND22",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND23",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "Z1",
+    "library": "varistor",
+    "deviceset": "VARISTOR",
+    "device": "CN0603",
+    "value": "CG0603MLC-05E"
+  },
+  {
+    "reference": "Z2",
+    "library": "varistor",
+    "deviceset": "VARISTOR",
+    "device": "CN0603",
+    "value": "CG0603MLC-05E"
+  },
+  {
+    "reference": "GROUND",
+    "library": "jumper",
+    "deviceset": "SJ",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "L1",
+    "library": "wuerth-elektronik",
+    "deviceset": "WE-CBF",
+    "device": "_0805",
+    "value": "BLM21"
+  },
+  {
+    "reference": "RESET-EN",
+    "library": "jumper",
+    "deviceset": "SJ",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "R2",
+    "library": "SmartPrj",
+    "deviceset": "R-EU_",
+    "device": "R0603",
+    "value": "1M"
+  },
+  {
+    "reference": "RN2",
+    "library": "resistor-dil",
+    "deviceset": "4R-N",
+    "device": "CAY16",
+    "value": "1K"
+  },
+  {
+    "reference": "GND4",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "RN1",
+    "library": "resistor-dil",
+    "deviceset": "4R-N",
+    "device": "CAY16",
+    "value": "10K"
+  },
+  {
+    "reference": "C6",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "C8",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "1u"
+  },
+  {
+    "reference": "RN4",
+    "library": "resistor-dil",
+    "deviceset": "4R-N",
+    "device": "CAY16",
+    "value": "1K"
+  },
+  {
+    "reference": "RN3",
+    "library": "resistor-dil",
+    "deviceset": "4R-N",
+    "device": "CAY16",
+    "value": "22R"
+  },
+  {
+    "reference": "C3",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "1u"
+  },
+  {
+    "reference": "R1",
+    "library": "SmartPrj",
+    "deviceset": "R-EU_",
+    "device": "R0603",
+    "value": "1M"
+  },
+  {
+    "reference": "C9",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "22p"
+  },
+  {
+    "reference": "C11",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "22p"
+  },
+  {
+    "reference": "GND8",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "JP2",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-2X2",
+    "device": "",
+    "value": "2x2 M - NM"
+  },
+  {
+    "reference": "GND15",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "U5",
+    "library": "linear",
+    "deviceset": "LMV358?*",
+    "device": "MM",
+    "value": "LMV358IDGKR"
+  },
+  {
+    "reference": "RESET",
+    "library": "SmartPrj",
+    "deviceset": "TS42",
+    "device": "",
+    "value": "TS42031-160R-TR-7260"
+  },
+  {
+    "reference": "Y2",
+    "library": "SmartPrj",
+    "deviceset": "RESONATOR",
+    "device": "MU",
+    "value": "CSTCE16M0V53-R0 16MHZ"
+  },
+  {
+    "reference": "U2",
+    "library": "SmartPrj",
+    "deviceset": "LP2985-XXDBVR",
+    "device": "",
+    "value": "LP2985-33DBVR"
+  },
+  {
+    "reference": "POWER",
+    "library": "SmartPrj",
+    "deviceset": "PINHD-1X8",
+    "device": "",
+    "value": "8x1F-H8.5"
+  },
+  {
+    "reference": "D2",
+    "library": "diode",
+    "deviceset": "DIODE-",
+    "device": "MINIMELF",
+    "value": "CD1206-S01575"
+  },
+  {
+    "reference": "D3",
+    "library": "diode",
+    "deviceset": "DIODE-",
+    "device": "MINIMELF",
+    "value": "CD1206-S01575"
+  },
+  {
+    "reference": "Y1",
+    "library": "SmartPrj",
+    "deviceset": "XTAL/S",
+    "device": "",
+    "value": "16MHz"
+  },
+  {
+    "reference": "ORIGIN",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND_TP",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND6",
+    "library": "supply1",
+    "deviceset": "GND",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_PWRIN",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_VIN",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_5V",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_3V3",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_RESET",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A0",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A1",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A3",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A4",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_A5",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_0",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_1",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_3",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_4",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_5",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_6",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_7",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_8",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_9",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_10",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_11",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_12",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_13",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_AREF",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_SDA",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_SCL",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_XT1",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_XT2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_ONL",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_RX",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_TX",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_TXL",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_RXL",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_DTR",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_USBVCC",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_VUCAP",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_XT3",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_XT4",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_PB4",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_PB5",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_PB6",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_PB7",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_MISO2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_RESET2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_MOSI2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_SCK2",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_XUSB",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_D-",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_D+",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_USH",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_UGND",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_GATE",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_LCMD",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_LL",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_CMP",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "GND_TP1",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "TP_5V1",
+    "library": "SmartPrj",
+    "deviceset": "TP_SP",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "L2",
+    "library": "Induttanze",
+    "deviceset": "0715_CV201210-100K",
+    "device": "",
+    "value": "10uH"
+  },
+  {
+    "reference": "P+12",
+    "library": "supply1",
+    "deviceset": "+5V",
+    "device": "",
+    "value": ""
+  },
+  {
+    "reference": "C10",
+    "library": "SmartPrj",
+    "deviceset": "C-EU",
+    "device": "0603-RND",
+    "value": "100n"
+  },
+  {
+    "reference": "FRAME1",
+    "library": "Arduino-utility",
+    "deviceset": "A3-FRAME",
+    "device": "",
+    "value": "DNP"
+  }
+]
